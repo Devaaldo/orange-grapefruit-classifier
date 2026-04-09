@@ -35,6 +35,11 @@ orange-grapefruit-classifier/
 3. **Model** — Sequential NN: `Input(5)` → `Dense(64, relu)` → `Dropout(0.3)` → `Dense(32, relu)` → `Dropout(0.2)` → `Dense(1, sigmoid)`
 4. **Evaluation** — accuracy, loss curves, classification report, confusion matrix
 
+## Notebook
+
+The full notebook is also published on Kaggle:
+[orange-vs-grapefruit-classifier-92-accuracy](https://www.kaggle.com/code/akbarprdna/orange-vs-grapefruit-classifier-92-accuracy/notebook)
+
 ## Results
 
 | Metric | Score |
